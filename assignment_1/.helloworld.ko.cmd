@@ -1,0 +1,1 @@
+cmd_/home/hp/G547/assignment_1/helloworld.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-133-generic/scripts/module-common.lds --build-id  -o /home/hp/G547/assignment_1/helloworld.ko /home/hp/G547/assignment_1/helloworld.o /home/hp/G547/assignment_1/helloworld.mod.o
