@@ -1,0 +1,1 @@
+cmd_/home/vaibhav0901/Desktop/final_project/driver/GPIO_SUBSYSTEM.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vaibhav0901/Desktop/final_project/driver/GPIO_SUBSYSTEM.ko /home/vaibhav0901/Desktop/final_project/driver/GPIO_SUBSYSTEM.o /home/vaibhav0901/Desktop/final_project/driver/GPIO_SUBSYSTEM.mod.o ;  true
